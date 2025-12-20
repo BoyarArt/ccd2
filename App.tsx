@@ -211,7 +211,7 @@ const App: React.FC = () => {
             <div>
               <h4 className="font-bold text-slate-900 mb-4">Контакты</h4>
               <ul className="space-y-2 text-sm text-slate-600">
-                <li>Almaty, Kazakhstan</li>
+                <li>Astana, Kazakhstan</li>
                 <li>info@ccd.kz</li>
                 <li>+7 (777) 000-00-00</li>
               </ul>
